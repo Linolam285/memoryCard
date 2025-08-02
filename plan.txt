@@ -1,0 +1,3 @@
+Components : 
+sidebar at the top for title, score, best score
+a component for the cards grid

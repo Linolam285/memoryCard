@@ -1,0 +1,11 @@
+* {
+  margin:0;
+  padding:0;
+}
+
+#root {
+  width:100vw;
+  min-height:100vh;
+  display:inline-block;
+  background-image:linear-gradient(to bottom, rgb(0,0,0) 2%,#3e6623 15%,#3e6623 100%);
+}

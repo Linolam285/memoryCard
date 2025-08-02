@@ -1,0 +1,33 @@
+#horizontalTop {
+    display:flex;
+    padding-top:20px;
+}
+
+
+
+#scoreBox {
+    font-size:2em;
+    margin-left:auto;
+}
+
+.score {
+    color:#B8860B;
+    font-weight:bold;
+}
+
+#gameTitle {
+   color:#B8860B;
+   padding-left:0.5em;
+   letter-spacing: 2px;
+   transition:text-shadow 0.3 ease;
+}
+
+#gameTitle:hover {
+    text-shadow:0 0 8px #ffd700, 0 0 12px #ffd700;
+}
+
+#how {
+    padding-left:0.9em;
+    margin-top:2em;
+    color:#B8860B;
+}
